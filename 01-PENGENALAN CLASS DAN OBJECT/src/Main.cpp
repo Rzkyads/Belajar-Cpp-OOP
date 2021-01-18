@@ -4,6 +4,7 @@
 using namespace std;
 
 //MEMBUAT CLASS TIDAK DI PROGRAM UTAMA(INT MAIN)
+//CLASS TANPA CONSTRUKTOR
 class Mahasiswa //Deklarasi Dari Kelas, dan jika membuat nama Class Memakai depan Kapital
 {
     public  ://publik dapat diakses di luas class
